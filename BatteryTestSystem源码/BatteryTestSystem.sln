@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryTestSystem_UI", "电池测试系统\BatteryTestSystem_UI.csproj", "{91CBD979-3EFB-46F7-9F42-5047555EE5D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryTestSystem_Dal", "BatteryTestSystem_Dal\BatteryTestSystem_Dal.csproj", "{FC650660-9436-4F08-A59C-2A65F5029368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryTestSystem_Bll", "BatteryTestSystem_Bll\BatteryTestSystem_Bll.csproj", "{EDC1AF19-95B3-44B9-AED7-696FF53B6822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryTestSystem_Comm", "BatteryTestSystem_Comm\BatteryTestSystem_Comm.csproj", "{A9982336-B99A-455A-9C62-DBFF39244D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryTestSystem_Model", "BatteryTestSystem_Model\BatteryTestSystem_Model.csproj", "{428CA9A2-BAAA-4273-9A21-51AE5E0A2580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91CBD979-3EFB-46F7-9F42-5047555EE5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CBD979-3EFB-46F7-9F42-5047555EE5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CBD979-3EFB-46F7-9F42-5047555EE5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CBD979-3EFB-46F7-9F42-5047555EE5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC650660-9436-4F08-A59C-2A65F5029368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC650660-9436-4F08-A59C-2A65F5029368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC650660-9436-4F08-A59C-2A65F5029368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC650660-9436-4F08-A59C-2A65F5029368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC1AF19-95B3-44B9-AED7-696FF53B6822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC1AF19-95B3-44B9-AED7-696FF53B6822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC1AF19-95B3-44B9-AED7-696FF53B6822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC1AF19-95B3-44B9-AED7-696FF53B6822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9982336-B99A-455A-9C62-DBFF39244D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9982336-B99A-455A-9C62-DBFF39244D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9982336-B99A-455A-9C62-DBFF39244D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9982336-B99A-455A-9C62-DBFF39244D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{428CA9A2-BAAA-4273-9A21-51AE5E0A2580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428CA9A2-BAAA-4273-9A21-51AE5E0A2580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428CA9A2-BAAA-4273-9A21-51AE5E0A2580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428CA9A2-BAAA-4273-9A21-51AE5E0A2580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

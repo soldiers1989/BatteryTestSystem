@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connectionset>
+  <IPText>192.168.0.240</IPText>
+  <DataBaseName>GPSTest</DataBaseName>
+</Connectionset>

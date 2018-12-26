@@ -1,0 +1,1 @@
+D:\BatteryTestSystem\电池测试系统\bin\Debug\电池测试系统.exe.config

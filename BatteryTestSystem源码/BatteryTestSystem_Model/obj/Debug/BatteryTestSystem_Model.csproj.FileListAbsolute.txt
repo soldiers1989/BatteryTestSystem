@@ -1,0 +1,11 @@
+D:\BatteryTestSystem\BatteryTestSystem_Model\bin\Debug\BatteryTestSystem_Model.dll
+D:\BatteryTestSystem\BatteryTestSystem_Model\bin\Debug\BatteryTestSystem_Model.pdb
+D:\BatteryTestSystem\BatteryTestSystem_Model\obj\Debug\BatteryTestSystem_Model.csprojResolveAssemblyReference.cache
+D:\BatteryTestSystem\BatteryTestSystem_Model\obj\Debug\BatteryTestSystem_Model.dll
+D:\BatteryTestSystem\BatteryTestSystem_Model\obj\Debug\BatteryTestSystem_Model.pdb
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Model\bin\Debug\BatteryTestSystem_Model.dll
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Model\bin\Debug\BatteryTestSystem_Model.pdb
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Model\obj\Debug\BatteryTestSystem_Model.csprojAssemblyReference.cache
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Model\obj\Debug\BatteryTestSystem_Model.csproj.CoreCompileInputs.cache
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Model\obj\Debug\BatteryTestSystem_Model.dll
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Model\obj\Debug\BatteryTestSystem_Model.pdb

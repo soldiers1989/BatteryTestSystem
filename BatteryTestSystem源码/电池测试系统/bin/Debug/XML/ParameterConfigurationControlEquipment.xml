@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParameterConfiguration>
+  <equipment1>
+    <com>COM5</com>
+    <com_baudtate>115200</com_baudtate>
+    <databits>8</databits>
+    <par>None</par>
+    <stop>1</stop>
+  </equipment1>
+</ParameterConfiguration>

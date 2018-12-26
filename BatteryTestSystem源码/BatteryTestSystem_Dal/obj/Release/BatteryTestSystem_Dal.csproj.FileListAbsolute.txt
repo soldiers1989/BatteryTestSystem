@@ -1,0 +1,16 @@
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\bin\Release\BatteryTestSystem_Dal.dll
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\bin\Release\BatteryTestSystem_Dal.pdb
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\bin\Release\BatteryTestSystem_Comm.dll
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\bin\Release\BatteryTestSystem_Model.dll
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\bin\Release\NPOI.dll
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\bin\Release\NPOI.OOXML.dll
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\bin\Release\NPOI.OpenXmlFormats.dll
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\bin\Release\NPOI.OpenXml4Net.dll
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\bin\Release\BatteryTestSystem_Comm.pdb
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\bin\Release\BatteryTestSystem_Model.pdb
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\obj\Release\BatteryTestSystem_Dal.csprojAssemblyReference.cache
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\obj\Release\BatteryTestSystem_Dal.csproj.CoreCompileInputs.cache
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\obj\Release\BatteryTestSystem_Dal.csproj.CopyComplete
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\obj\Release\BatteryTestSystem_Dal.dll
+D:\项目集\电池\项目源代码\BatteryTestSystem\BatteryTestSystem_Dal\obj\Release\BatteryTestSystem_Dal.pdb
